@@ -15,4 +15,4 @@ This is a screenshot of the project website, which is currently: live and hosted
 
 
 ## Technologies
-Django, Python, AWS Lightsail, Apache, VIM, Bash, HTML
+Django, Python, AWS Lightsail, Apache, VIM, Bash, WSGI, HTML
