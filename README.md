@@ -9,7 +9,8 @@ The AWS instance of the project has been assigned a static ip address with a fir
 
 ## Images
 
-This is a screenshot of the project website, which is currently: **live** (please send an email to be granted access)
+This is a screenshot of the project website, which is currently: **live**  
+(please send an email to be granted access)
 
 ![Image of Scraped Population Data](https://github.com/JonasKVJ/Population-Scraper-AWS-Lightsail/blob/master/Embedded-ScrapedProjectData.png)
 
