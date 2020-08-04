@@ -5,7 +5,12 @@ The project was set up in 2 weeks and could be expanded in the future, by for ex
 The two chosen countries were United States and India, but any number of countries could be chosen for any kind of purpose. 
 
 ## Security
-The project is hosted on a static ip address with a firewall configured to an exclusive public ip address, but as the project expands, scraping with a proxy should be required. 
+The project is hosted on a static ip address with a firewall configured to an exclusive public ip address, but as the project 
+expands, scraping with a proxy should be required. 
+
+## Images
+
+
 
 ## Technologies
 Django, Python, AWS Lightsail, Apache, VIM, Bash, HTML
