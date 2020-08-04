@@ -9,7 +9,7 @@ The project is hosted on a static ip address with a firewall configured to an ex
 expands, scraping with a proxy should be required. 
 
 ## Images
-
+![Image of Scraped Population Data](https://github.com/JonasKVJ/Population-Scraper-AWS-Lightsail/blob/master/ScrapedProjectData.png)
 
 
 ## Technologies
