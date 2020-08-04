@@ -10,7 +10,7 @@ expands, the website should be hosted on a HTTPS domain, which could be done wit
 
 ## Images
 
-This is a screenshot of the project website, which is currently: **live and hosted on AWS Lightsail**
+This is a screenshot of the project website, which is currently: **live**
 
 ![Image of Scraped Population Data](https://github.com/JonasKVJ/Population-Scraper-AWS-Lightsail/blob/master/Embedded-ScrapedProjectData.png)
 
