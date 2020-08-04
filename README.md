@@ -6,7 +6,7 @@ The two chosen countries were United States and India, but any number of countri
 
 ## Security
 The project is hosted on a static ip address with a firewall configured to an exclusive public ip address, but as the project 
-expands, the website should be hosted on a HTTPS domain with an AWS load balancer. 
+expands, the website should be hosted on a HTTPS domain, which could be done with an AWS load balancer.  
 
 ## Images
 
