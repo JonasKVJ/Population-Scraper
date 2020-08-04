@@ -9,6 +9,8 @@ The project is hosted on a static ip address with a firewall configured to an ex
 expands, scraping with a proxy should be required. 
 
 ## Images
+
+The screenshot below of the project website is currently: live and hosted on a AWS Lightsail
 ![Image of Scraped Population Data](https://github.com/JonasKVJ/Population-Scraper-AWS-Lightsail/blob/master/Embedded-ScrapedProjectData.png)
 
 
