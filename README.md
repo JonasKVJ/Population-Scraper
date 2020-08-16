@@ -5,11 +5,10 @@ The project was set up in 2 weeks and could be expanded in the future, by for ex
 The two chosen countries were United States and India, but any number of countries could be chosen for any kind of purpose. 
 
 ## Security
-The AWS instance of the project has been assigned a static ip address with a firewall configured to an exclusive public ip address. As the project expands, the website should be hosted on a HTTPS domain, which could be done with an AWS load balancer. 
+The AWS instance of the project has been assigned a static ip address with a firewall configured to an exclusive public ip address. As the project expands, the website should be hosted on a HTTPS domain, which could for example be done with an AWS load balancer to ensure scalability. 
 
 ## Images
-
-This is a screenshot of the project website, which is currently: **not live**
+This is a screenshot of the project website, from the short amount of time when it was live. It is now taken down due to security concerns, as well as cost. 
 
 ![Image of Scraped Population Data](https://github.com/JonasKVJ/Population-Scraper-AWS-Lightsail/blob/master/Embedded-ScrapedProjectData.png)
 
