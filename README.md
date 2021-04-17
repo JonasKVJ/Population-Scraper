@@ -14,4 +14,4 @@ This is a screenshot of the project website, from the short amount of time when 
 
 
 ## Technologies
-Django, Python, AWS Lightsail, Apache, VIM, Bash, WSGI, HTML
+Django, Python, AWS Lightsail, Apache, VIM, Bash, Beautiful Soup, WSGI, HTML
